@@ -4,7 +4,9 @@
 	"filename": "",
 	"version": "1.0.0",
 	"description": "",
-	"screenshots": [],
+	"screenshots": [
+	    ""https://placeholdit.imgix.net/~text?txtsize=41&txt=Ponyshow&w=222&h=140""
+	],
 	"main": "deck.md",
 	"repository": {
 		"type": "git",
